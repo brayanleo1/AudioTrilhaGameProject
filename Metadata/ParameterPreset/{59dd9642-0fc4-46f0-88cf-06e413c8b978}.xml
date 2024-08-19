@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{59dd9642-0fc4-46f0-88cf-06e413c8b978}">
+		<property name="name">
+			<value>Parried</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e218e167-7390-441f-bc44-bb14c3a07bf9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{769abf5d-b105-4fdd-9939-396ad982e29b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{769abf5d-b105-4fdd-9939-396ad982e29b}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>True</value>
+			<value>False</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

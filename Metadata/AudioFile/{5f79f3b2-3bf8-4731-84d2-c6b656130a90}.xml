@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5f79f3b2-3bf8-4731-84d2-c6b656130a90}">
+		<property name="assetPath">
+			<value>UI/Upgrade.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.7668027210884354</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1fafdc14-77d7-45e9-981e-3b4eab6f73a0}</destination>
+		</relationship>
+	</object>
+</objects>

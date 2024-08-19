@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c7b2cfa1-d2bb-43f8-9f03-fe0fb12d20d4}">
+		<property name="assetPath">
+			<value>UI/Page Swipe 1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.1488208616780047</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1fafdc14-77d7-45e9-981e-3b4eab6f73a0}</destination>
+		</relationship>
+	</object>
+</objects>

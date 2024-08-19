@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{4c7e39f6-24eb-48ee-86a1-02d0d0fdb4a5}">
+		<property name="name">
+			<value>Chatting</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e218e167-7390-441f-bc44-bb14c3a07bf9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2504dda1-1235-4441-bc18-c66c383cd0f5}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2504dda1-1235-4441-bc18-c66c383cd0f5}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Knight</value>
+			<value>Messenger</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

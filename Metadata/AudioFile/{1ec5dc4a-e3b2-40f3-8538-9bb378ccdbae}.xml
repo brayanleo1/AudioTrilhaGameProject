@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1ec5dc4a-e3b2-40f3-8538-9bb378ccdbae}">
+		<property name="assetPath">
+			<value>BGM/Knight's Quest.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>92.543999999999997</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1fafdc14-77d7-45e9-981e-3b4eab6f73a0}</destination>
+		</relationship>
+	</object>
+</objects>

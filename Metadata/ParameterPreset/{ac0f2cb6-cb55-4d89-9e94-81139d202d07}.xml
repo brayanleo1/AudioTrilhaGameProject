@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ac0f2cb6-cb55-4d89-9e94-81139d202d07}">
+		<property name="name">
+			<value>Parry</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e218e167-7390-441f-bc44-bb14c3a07bf9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{908b20f5-dac1-4ede-8c8d-4e4de590f7f1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{908b20f5-dac1-4ede-8c8d-4e4de590f7f1}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
